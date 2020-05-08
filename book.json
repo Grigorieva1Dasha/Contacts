@@ -1,0 +1,47 @@
+{
+  "user":{
+    "name": "Ivan",
+    "phone": "123",
+    "sex": "MAN"
+  },
+  "user": {
+    "name": "Nastya",
+    "phone": "456",
+    "sex": "WOMAN"
+  },
+  "user": {
+    "name": "UFO1",
+    "phone": "000",
+    "sex": "UFO"
+  },
+  "user":{
+    "name": "Petya",
+    "phone": "123",
+    "sex": "MAN"
+  },
+  "user":{
+    "name": "Ivan",
+    "phone": "123",
+    "sex": "MAN"
+  },
+  "user": {
+    "name": "Olya",
+    "phone": "456",
+    "sex": "WOMAN"
+  },
+  "user": {
+    "name": "Dasha",
+    "phone": "456",
+    "sex": "WOMAN"
+  },
+  "user": {
+    "name": "UFO2",
+    "phone": "000",
+    "sex": "UFO"
+  },
+  "user": {
+    "name": "UFO3",
+    "phone": "000",
+    "sex": "UFO"
+  }
+}
